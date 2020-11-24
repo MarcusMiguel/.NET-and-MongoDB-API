@@ -10,6 +10,7 @@ https://localhost:5001/infectado/
 
 POST:
 https://localhost:5001/infectado/
+
 {
 	"dataNascimento": "1990-03-01",
 	"sexo": "F",
@@ -19,6 +20,7 @@ https://localhost:5001/infectado/
 
 PATCH:
 https://localhost:5001/infectado/
+
 {
 	"dataNascimento": "1990-03-01",
 	"latitude": -30.4578996,
