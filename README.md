@@ -6,9 +6,11 @@ Precisa configurar a ConnectionString no arquivo appsettings.json.
 - Exemplos de uso:
 
 GET:
+
 https://localhost:5001/infectado/
 
 POST:
+
 https://localhost:5001/infectado/
 
 {
@@ -19,6 +21,7 @@ https://localhost:5001/infectado/
 }
 
 PATCH:
+
 https://localhost:5001/infectado/
 
 {
@@ -28,6 +31,7 @@ https://localhost:5001/infectado/
 }
 
 DELETE:
+
 https://localhost:5001/infectado/1990-03-01
 
 
